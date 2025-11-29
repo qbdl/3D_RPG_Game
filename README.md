@@ -49,9 +49,9 @@
   - ”S“键进行存档，”L"键加载存档
   
 
-<img src="./assets/image-20251129174529201.png" alt="image-20251129174529201" style="zoom: 40%;" />
+<img src="./Assets/image-20251129174529201.png" alt="image-20251129174529201" style="zoom: 40%;" />
 
-<img src="./assets/image-20251129174543110.png" alt="image-20251129174543110" style="zoom: 85%;" />
+<img src="./Assets/image-20251129174543110.png" alt="image-20251129174543110" style="zoom: 85%;" />
 
 ### 游戏效果视频
 
